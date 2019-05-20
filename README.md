@@ -1,1 +1,1 @@
-# DiscordVoiceAssistant
+# Discord Voice Assistant
