@@ -34,9 +34,9 @@ Node v8.0
 ## Usage
 
 With default prefix as `*`
-* Type *join in a channel to have the bot join the room
+* Type `*join` in a channel to have the bot join the room
 
-- - - - 
+
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
