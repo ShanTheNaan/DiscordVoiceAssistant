@@ -11,6 +11,7 @@
   "dependencies": {
     "discord.js": "^11.5.0",
     "ffmpeg-binaries": "^4.0.0",
-    "node-opus": "^0.3.1"
+    "node-opus": "^0.3.1",
+    "stream-buffers": "^3.0.2"
   }
 }
