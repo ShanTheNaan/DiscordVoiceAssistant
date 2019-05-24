@@ -1,0 +1,5 @@
+# Don't track the contents of theses files and folders
+node_modules/
+config.json
+package-lock.json
+
